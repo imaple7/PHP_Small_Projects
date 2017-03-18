@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878468a9-8c63-4c13-8385-a5ca95402a8f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test.php" afterPath="$PROJECT_DIR$/Hello.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hello.php" afterPath="$PROJECT_DIR$/Hello.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +21,8 @@
       <file leaf-file-name="Hello.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Hello.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="180">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -158,7 +158,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489863835596</updated>
-      <workItem from="1489863836808" duration="696000" />
+      <workItem from="1489863836808" duration="1491000" />
     </task>
     <task id="LOCAL-00001" summary="Test Git functionality">
       <created>1489864021440</created>
@@ -167,11 +167,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489864021440</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hello World File">
+      <created>1489865348164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489865348164</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="696000" />
+    <option name="totallyTimeSpent" value="1491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="171" y="32" width="1095" height="676" extended-state="0" />
@@ -204,7 +211,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Git functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Git functionality" />
+    <MESSAGE value="Hello World File" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World File" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -213,8 +221,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Hello.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
