@@ -15,7 +15,16 @@ class PagesController extends Controller {
     }
 
     public function getAbout() {
-        return view('pages.about');
+        $first = 'Fujie';
+        $last = 'Chen';
+
+        $fullname = $first . " " . $last;
+        $information = 'Information Try';
+
+        $data = [];
+        $data['fullname'] = $fullname;
+        $data['information'] = $information;
+        return view('pages.about')->withData($data);
     }
 
     public function getContact() {
